@@ -1,36 +1,37 @@
+```markdown
 # Weight Calculator
 
-Um simples projeto de calculadora de peso em HTML para WordPress.
+A simple weight calculator project in HTML for WordPress.
 
-## Como Usar
+## How to Use
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/pierleeb/WeightCalculator.git
    ```
 
-2. Abra o arquivo `index.html` em um navegador da web.
+2. Open the `index.html` file in a web browser.
 
-3. Preencha a altura e o peso nos campos e clique em "Calcular" para ver o resultado do Índice de Massa Corporal (IMC).
+3. Fill in the height and weight fields and click "Calculate" to see the Body Mass Index (BMI) result.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar este projeto.
+Contributions are welcome! Feel free to open issues and send pull requests to improve this project.
 
-## Contato
+## Contact
 
 - GitHub: [pierleeb](https://github.com/pierleeb)
-- E-mail: contato@pierleeb.com
+- Email: contato@pierleeb.com
 - LinkedIn: [pierleeb](https://www.linkedin.com/in/pierleeb/)
 
-## Licença
+## License
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE.txt](LICENSE.txt) para detalhes.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 ```
