@@ -1,4 +1,3 @@
-```markdown
 # Weight Calculator
 
 A simple weight calculator project in HTML for WordPress.
